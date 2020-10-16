@@ -10,7 +10,7 @@ RUN apt-get install jekyll bundler -y
 RUN ln -fs /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 RUN dpkg-reconfigure -f noninteractive tzdata
 RUN bundle install
-RUN jekyll build
+RUN bundle exec jekyll build
 
 FROM nginx:stable-alpine    
 
