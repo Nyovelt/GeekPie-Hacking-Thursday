@@ -1,5 +1,6 @@
 FROM ubuntu as build
 
+ENV TZ=Asia/Shanghai
 WORKDIR /app
 COPY . /app
 RUN apt-get update
