@@ -1,10 +1,14 @@
 FROM ubuntu as build
 
+ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Asia/Shanghai
+
 WORKDIR /app
 COPY . /app
 RUN apt-get update
 RUN apt-get install jekyll bundler -y
+RUN ln -fs /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+RUN dpkg-reconfigure -f noninteractive tzdata
 RUN bundle install
 RUN jekyll build
 
