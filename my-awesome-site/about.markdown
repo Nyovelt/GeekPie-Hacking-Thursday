@@ -4,15 +4,29 @@ title: 关于我们
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 上海科技大学学生 GeekPie 社团
+上海科技大学 GeekPie 社团创立于 2014 年，是一个秉承开源共享理念，在校园内积极营造协作、开发、创意与创造氛围，立足于技术的综合性科创社团。社团成立五年来，已吸纳校内外本研成员九百余人，涵盖区块链、机器人、高性能运算、FPGA、运维架构、应用与 Web 开发、信息安全、图形图像8个领域，被评选为上海市最极客的社团，蝉联上海科技大学优秀集体称号至今。社团成员在国内国际各大赛事中累计斩获各类奖项四十余项，并已与中科大 LUG等同类社团、微软等业界领军企业成功合作举办过活动或建立了长期合作关系。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Hacking Thursday
+### Hacking Thursday 是什么？
+Hacking Thursday 是从台湾的自由软件社区诞生的一种聚会形式, 最初是由几位居住于台北地区的自由软件/开放原代码开发者所发起的，每周四晚上会于特定地点聚会，会议欢迎开发者或用户加入。2010年，台南linux社区的雨苍从台湾到上海来工作，同时也把这种聚会形式介绍给了上海Linux社区，从此上海也开始组织此类活动。GeekPie 社团想要将这种形式的活动带入上海科技大学。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[上海LinuxUserGroup的活动页面](https://www.shlug.org/)[台湾HackingThursday的活动页面(web archive)](https://web.archive.org/web/20150427043147/http://hack.ingday.org/) [meetup页面](https://www.meetup.com/hackingthursday/)
 
+### 目的：
+目的是以非会议形式 、交换各自提出的想法，轻松的会议过程以礼貌、谦虚与尊重的互信态度接纳并鼓励概念发想、发起新计划、并从开发者的协同开发与经验分享中互相学习。
 
-[jekyll-organization]: https://github.com/jekyll
+### 什么样的人能够参加?
+只要想来都可以参加。
+
+### 聚会的组织流程：
+目前，每周由聚会的组织者在各种渠道发布聚会计划，有兴趣参与人员可以按照邮件中的地址自行前往参加，聚会场地会有专门的标志识别，一般情况下在[SIST](https://surl.amap.com/2Z6WcacBeHV)。一般情况下会有零食分享。
+
+### 内容：
+讨论有创意的想法，分享最新的技术，交流系统工具 & 使用技巧，解决电脑问题。
+
+### 时间：
+工作日的每周四晚上,一般21:00至22:00, 随时来都可以。
+
+### 地点：
+以信息学院 1B203 GeekPie 社团以及周边的空会议室为主，具体地址请关注各种渠道的每周公告。 
