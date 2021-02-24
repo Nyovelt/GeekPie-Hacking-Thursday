@@ -13,7 +13,7 @@ Hacking Thursday 是从台湾的自由软件社区诞生的一种聚会形式, �
 
 GeekPie 社团想要将这种形式的活动带入上海科技大学。
 
-[上海LinuxUserGroup的活动页面](https://www.shlug.org/)[台湾HackingThursday的活动页面(web archive)](https://web.archive.org/web/20150427043147/http://hack.ingday.org/) [meetup页面](https://www.meetup.com/hackingthursday/)
+[上海LinuxUserGroup的活动页面](https://www.shlug.org/)[台湾HackingThursday的活动页面(web archive)](https://web.archive.org/web/20150427043147/http://hack.ingday.org/) 
 
 ### 目的：
 目的是以非会议形式 、交换各自提出的想法，轻松的会议过程以礼貌、谦虚与尊重的互信态度接纳并鼓励概念发想、发起新计划、并从开发者的协同开发与经验分享中互相学习。
@@ -25,7 +25,7 @@ GeekPie 社团想要将这种形式的活动带入上海科技大学。
 目前，每周由聚会的组织者在各种渠道发布聚会计划，有兴趣参与人员可以按照渠道中的地址自行前往参加，聚会场地会有专门的标志识别，一般情况下在[SIST](https://surl.amap.com/2Z6WcacBeHV)。一般情况下会有零食分享。
 
 ### 内容：
-讨论有创意的想法，分享最新的技术，交流系统工具 & 使用技巧，解决电脑问题。
+讨论有创意的想法，分享最新的技术，交流系统工具 & 使用技巧，解决电脑问题，补上计算机课堂教育中缺失的一课。
 
 ### 时间：
 工作日的每周日下午,一般15:00至17:00, 随时来都可以。
